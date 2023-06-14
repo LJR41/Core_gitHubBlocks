@@ -1,0 +1,32 @@
+.row1{
+    background-color: lightcoral;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin:15px;
+    padding: 0px 20px 0px 20px;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+.row2{
+    background-color: rgb(252, 1, 1);
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 15px;
+}
+
+.row3{
+    background-color: rgb(17, 0, 255);
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px;
+    padding: 0px 20px 0px 20px;
+}
